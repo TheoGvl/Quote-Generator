@@ -1,4 +1,4 @@
-# Zen Wisdom Generator
+# Quote and wisdom Generator
 
 A minimalist, floating desktop widget built with Python and Flet. This application provides instant, relaxing life advice at the click of a button, designed to sit quietly on your desktop without breaking your focus.
 
